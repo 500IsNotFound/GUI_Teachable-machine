@@ -1,0 +1,6 @@
+<RCC>
+  <qresource>
+    <file>fileUpload.png</file>
+    <file>webcamUpload.png</file>
+  </qresource>
+</RCC>
